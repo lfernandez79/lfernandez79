@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS, Always reactJS**
 
-- 👨‍💻 All of my projects are available at [https://netlifyleoportfolio.netlify.app/](https://lfernandez79.github.io/reactPortfolio/)
+- 👨‍💻 All of the things I'm currently learning and projects are available at [My portfolio](https://netlifyleoportfolio.netlify.app/)
 
 - ⚡ Fun fact **Love coffee!**
 
