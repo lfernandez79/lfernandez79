@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leo Fernandez</h1>
 <h3 align="center">Fullstack/Frontend Javascript developer, always learning and improving my skills, JavaScript is my language of choice!  </h3>
-<h4 align="center">I'm located just a little north Dallas, TX</h4>
+<h3 align="center">I'm located just north Dallas, TX</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lfernandez79" alt="lfernandez79" /> </p>
 
-- 🌱 I’m currently learning **AWS, Always reactJS**
+- 🌱 I’m currently learning **AWS, Structure and Algorithm, Always JavaScript and ReactJS**
 
 - 👨‍💻 All of the things I'm currently learning and projects are available at [My portfolio](https://netlifyleoportfolio.netlify.app/)
 
