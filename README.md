@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo Fernandez</h1>
-
 <h2 align="center">Fullstack/Frontend Javascript developer, always learning and improving my skills, JavaScript is my language of choice!</h2>
-
-<h3 align="center">I'm located just north Dallas, TX</h3>
+<p align="center">I'm located just north Dallas, TX</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lfernandez79" alt="lfernandez79" /> </p>
 
