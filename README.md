@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leo Fernandez</h1>
-<h2 align="center">Fullstack/Frontend Javascript developer, always learning and improving my skills, JavaScript is my language of choice!</h2>
+<h2 align="center">Javascript/DevOps, always learning and improving my skills, JavaScript, Kubernetes and containers!</h2>
 <p align="center">I'm located just north Dallas, TX</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lfernandez79" alt="lfernandez79" /> </p>
 
-- 🌱 I’m currently learning *AWS, Structure and Algorithm, Always JavaScript and ReactJS*
-
-- 👨‍💻 All of the things I'm currently learning and projects are available at [My portfolio](https://netlifyleoportfolio.netlify.app/)
+- 🌱 I’m currently studying for *CKAD*
 
 - ⚡ Fun fact *Love coffee!*
 
