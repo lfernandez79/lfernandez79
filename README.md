@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Fernandez</h1>
-<h2 align="center">Javascript / DevOps, always learning and improving my skills, JavaScript, Kubernetes and containers!</h2>
+<h2 align="center">Always learning and improving my skills, Web, JavaScript, Kubernetes and containers!</h2>
 <p align="center">I'm located just north Dallas, TX</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lfernandez79" alt="lfernandez79" /> </p>
